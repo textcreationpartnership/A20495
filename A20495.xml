@@ -1,0 +1,1115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for musters Wherein is shevved the order of drilling for the musket and pike. Set forth in postures, with the words of command, and brief instructions for the right use of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20495</idno>
+            <idno type="STC">STC 6903</idno>
+            <idno type="STC">ESTC S116596</idno>
+            <idno type="EEBO-CITATION">99851812</idno>
+            <idno type="PROQUEST">99851812</idno>
+            <idno type="VID">17104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17104)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1304:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions for musters Wherein is shevved the order of drilling for the musket and pike. Set forth in postures, with the words of command, and brief instructions for the right use of the same.</title>
+               </titleStmt>
+               <extent>[18] p., 21 plates   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Buck and Roger Daniel, printers to the Universitie of Cambridge,</publisher>
+                  <pubPlace>[Cambridge] :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The plates, derived from Jacob de Gheyn's Wapen-handelinghe van roers, musquetten en spiessen (STC 11810) are identical to, but apparently in a later state than, those bound with the Huntington Library and Art Gallery copy of STC 7684; see the description in the STC note to STC 794.5. The last plate of the present item has no imprint--STC.</note>
+                  <note>Title page is preceded by an engraved title page that indicates vendor: and are to bee sould by Roger Daniel at the Angel in Lumbard Streete.</note>
+                  <note>Signatures: pi¹ A-B⁴.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military art and science --  Early works to 1800.</term>
+               <term>Weapons --  Early works to 1800.</term>
+               <term>Armor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17104:1"/>
+            <pb facs="tcp:17104:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <p>DIRECTIONS FOR MVSTERS</p>
+                  <p>Wherein is Showne the order of Drilling for the Muſket and Pike</p>
+                  <p>Printed at Cambridge And are to bee ſould by Roger Daniel at the Angel in Lumbard Streete</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:17104:2"/>
+            <pb facs="tcp:17104:2" rendition="simple:additions"/>
+            <p>DIRECTIONS FOR MUSTERS: Wherein is ſhevved the order of drilling for the Musket and Pike.</p>
+            <p>Set forth in poſtures, with the words of command, and brief inſtru<g ref="char:EOLhyphen"/>ctions for the right uſe of the ſame.</p>
+            <p>Printed by <hi>Thomas Buck</hi> and <hi>Roger Daniel,</hi> printers to the Univerſitie of <hi>Cambridge.</hi> 1638.</p>
+         </div>
+      </front>
+      <body>
+         <div type="directions">
+            <pb facs="tcp:17104:3"/>
+            <pb facs="tcp:17104:3"/>
+            <head>Directions for Muſters.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Land-forces</hi> of this kingdome are either <hi>Trained</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>ntrained.</hi>
+               <note n="a" place="margin">His Majeſties letters, Sep<g ref="char:EOLhyphen"/>tember 21. 1628.</note> In the <hi>Trained-bands,</hi> and in having them <hi>well</hi> 1 <hi>Choſen, well</hi> 2 <hi>Armed, and well</hi> 3 <hi>Diſci<g ref="char:EOLhyphen"/>plined,</hi> a moſt eſſentiall part of the ſtrength and ſafetie of the kingdome conſiſteth.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> ¶<note n="b" place="margin">Ibidem.</note>Touching the <hi>Choice</hi> of the perſons of men to be <hi>inrolled</hi> in the <hi>Trained-liſts;</hi> They muſt be men <hi>ſufficient, of able and active bo<g ref="char:EOLhyphen"/>dies;</hi> none of the meaner ſort, nor ſervants; but onely ſuch as be of the <hi>Gentrie, Free-holders,</hi> and <hi>good Farmers, or their ſonnes,</hi> that are like to be reſident. And this ſtands with great reaſon:<note n="c" place="margin">Q. Eliſab. her letters, April 9. 1585.</note> theſe <hi>Bands</hi> being onely to be employed as a <hi>Guard</hi> for the <hi>Prince</hi> his <hi>Perſon,</hi> and the <hi>withſtanding</hi> of a <hi>forrain enemie.</hi>
+               <note n="d" place="margin">LL. of the Counſels let<g ref="char:EOLhyphen"/>ters April 27. 1635.</note> And therefore it is alſo required that they be <hi>well affected in Religion,</hi> and <hi>take the oathes of Supremacie and Allegeance.</hi>
+               <note n="e" place="margin">Q. Eliſabeths Commiſſion, March 14. 1573.</note> None were formerly to be <hi>excuſed</hi> from <hi>perſonall ſervice,</hi> but <hi>Prelates, Lords of the Parliament, and privie Counſel, Eccleſiaſticall perſons, and Judges and judiciall Of<g ref="char:EOLhyphen"/>ficers.</hi> And now<note n="f" place="margin">LL. of the Counſels let<g ref="char:EOLhyphen"/>ters, May 31. 1631.</note> 
+               <hi>none</hi> are to be <hi>exempted</hi> but <hi>the Kings meniall ſer<g ref="char:EOLhyphen"/>vants,</hi> or ſuch as have ſome ſuch <hi>place under the King</hi> as may law<g ref="char:EOLhyphen"/>fully excuſe them. Alſo,<note n="g" place="margin">His Maje<g ref="char:EOLhyphen"/>ſties orders, 1626.</note> none <hi>to remove his dwelling</hi> out of the <hi>Town</hi> or <hi>Pariſh</hi> of his abode, without <hi>licence</hi> of a <hi>Deputie-lieute<g ref="char:EOLhyphen"/>nant.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> ¶Concerning their <hi>Arming;</hi> Every Captain is <hi>to</hi>
+               <note n="h" place="margin">His Majeſties letters, Sept. 21. 1628.</note> 
+               <hi>charge Armes</hi> in his reſpective hundred or precinct, <hi>equally and impartially,</hi> accord<g ref="char:EOLhyphen"/>ing to the <hi>value</hi> of each mans <hi>lands</hi> or <hi>means,</hi> whether the <hi>owners</hi> be there <hi>reſident or not.</hi>
+               <note n="i" place="margin">Ibidem.</note> And no <hi>Armes</hi> are to be <hi>allowed of</hi> but <hi>compleat</hi> ones, and of the <hi>beſt modern faſhion.</hi>
+               <note n="k" place="margin">Orders, 1626.</note> Every man muſt have the <hi>Horſe</hi> or <hi>Armes</hi> he ſtands charged with, at <hi>all times ready</hi> at an <hi>houres warning,</hi> of <hi>his own.</hi>
+               <note n="l" place="margin">LL. of the Counſels let<g ref="char:EOLhyphen"/>ters, Jan. 10. 1627.</note> And if any man ſhall appear at the <hi>Muſter</hi> with a <hi>borrowed Horſe or Armes,</hi> or in any other <hi>unfitting manner,</hi> he ſhall be proceeded againſt as a <hi>high contemner</hi> of the
+<pb facs="tcp:17104:4"/> 
+               <hi>Kings royall command,</hi> and as one that <hi>betrayeth</hi> (as much as in him lieth) <hi>the honour of his Majeſtie,</hi> and the <hi>ſafetie</hi> of his <hi>kingdomes.</hi> Moreover, every man is required not onely to appear at <hi>Muſters</hi> in<note n="m" place="margin">Stat. 4<hi rend="sup">o</hi>. &amp; 5<hi rend="sup">o</hi>. Phil. &amp; Mar. cap. 3.</note> his <hi>beſt Armes,</hi> but alſo in his beſt <hi>Aray.</hi>
+               <note n="n" place="margin">Proclama<g ref="char:EOLhyphen"/>tion.</note> And for the <hi>preventing</hi> of the abuſe of ſhewing <hi>borrowed Armes,</hi> every Captain is to <hi>ſtamp</hi> the <hi>Armes</hi> of his Companie, thereby to be <hi>known</hi> and <hi>diſtin<g ref="char:EOLhyphen"/>guiſhed.</hi>
+            </p>
+            <p>Now the <hi>Armes</hi> be either for <hi>Horſe</hi> or <hi>Foot.</hi>
+            </p>
+            <p>
+               <note n="o" place="margin">Militarie in<g ref="char:EOLhyphen"/>ſtructions for the Cavalle<g ref="char:EOLhyphen"/>rie, 1632. Part 1. chap. 23, 24.</note>Concerning the <hi>Horſe;</hi> how the ſeverall kinds of them are to be <hi>armed,</hi> is ſhewed at large in a book of <hi>Cavallerie</hi> lately pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p>The <hi>Foot</hi> are either <hi>Pikes</hi> or <hi>Musketiers.</hi>
+            </p>
+            <p>
+               <note n="p" place="margin">Order ad<g ref="char:EOLhyphen"/>viſed on by the Counſel of warre.</note>The <hi>Pikeman</hi> muſt be <hi>armed</hi> with a <hi>Pike</hi> ſeventeen foot long head and all; (the diameter of the ſtaff to be one inch ¾. the head to be well ſteeled, 8 inches long, broad, ſtrong, and ſword-point<g ref="char:EOLhyphen"/>ed; the cheeks 2 foot long, well riveted; the butt-end bound with a ring of iron) a <hi>Gorget, Back, Breaſt, Taſſets</hi> and <hi>Head-piece,</hi> a good <hi>Sword</hi> of 3 foot long, cutting and ſtiff-pointed, with <hi>Girdle</hi> and <hi>Hangers.</hi>
+            </p>
+            <p>The <hi>Musketier</hi> muſt be <hi>armed</hi> with a good <hi>Musket,</hi> (the Barrel of 4 foot long, the Bore of 12 bullets in the pound rowling in) a <hi>Reſt, Bandelier, Head-piece,</hi> a good <hi>Sword, Girdle</hi> and <hi>Hangers.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> ¶<hi>Election</hi> and <hi>Arming</hi> availeth little without <hi>Diſcipline;</hi> this being the <hi>ſoul</hi> and principall part, muſt be ſeriouſly and frequently <hi>practiſed:</hi> for the better performance whereof<note n="q" place="margin">Orders, 2626.</note> every <hi>Commander</hi> and <hi>Officer</hi> muſt <hi>enable</hi> himſelf to perform the duties of their ſe<g ref="char:EOLhyphen"/>verall <hi>places.</hi>
+            </p>
+            <p>
+               <note n="r" place="margin">LL. of the Counſels Or<g ref="char:EOLhyphen"/>ders, 1623.</note>Every <hi>Captain</hi> muſt make choice of his certain and conſtant <hi>File-leaders,</hi> out of his beſt men, which muſt exerciſe their reſpe<g ref="char:EOLhyphen"/>ctive <hi>files</hi> on holy-dayes or other convenient dayes; the <hi>Musketiers</hi> then uſing onely a little powder for the pan.</p>
+            <p>He muſt appoint to every <hi>File-leader</hi> his certain <hi>file,</hi> of ſuch as dwell neareſt to him, for the more ready calling of them together.</p>
+            <p>The <hi>Captain, Lieutenant,</hi> or <hi>Enſigne</hi> is to exerciſe a <hi>Squadron,</hi> or the whole <hi>Companie</hi> once a moneth or 6 weeks on a holy-day, as ſhall ſeem good to the <hi>Deputie-lieutenant.</hi> For the better ena<g ref="char:EOLhyphen"/>bling the <hi>Musketiers</hi> for <hi>ſervice,</hi> they are ſometimes to be <hi>exer<g ref="char:EOLhyphen"/>ciſed</hi> with <hi>bullets</hi> at <hi>marks.</hi>
+            </p>
+            <pb facs="tcp:17104:4"/>
+            <p>
+               <note n="ſ" place="margin">Orders, 1626.</note>No <hi>Souldier</hi> muſt preſume to depart from his <hi>Colours,</hi> untill he be diſcharged by his <hi>Captain.</hi>
+            </p>
+            <p>
+               <note n="t" place="margin">Stat. 4<hi rend="sup">o</hi>. &amp; 5<hi rend="sup">o</hi>. Phil. &amp; Mar. cap. 3.</note>If any one abſent himſelf from the <hi>Muſter (generall</hi> or <hi>ſpeciall)</hi> he is to ſuffer 10 <hi>dayes impriſonment</hi> without bail or mainpriſe, or elſe <hi>to pay</hi> 40 <hi>ſhillings.</hi>
+            </p>
+            <p>
+               <hi>Souldiers</hi> muſt be <hi>exerciſed,</hi> (firſt apart by themſelves) in their <hi>Poſtures</hi> or true uſe of their <hi>Armes;</hi> (then joyned in a <hi>Body</hi>) in their <hi>Diſtances, Motions and Skirmiſhes.</hi>
+            </p>
+            <p>How the <hi>Horſe</hi> are to be exerciſed, is ſhewed in the ſaid book of <hi>Cavallerie.</hi>
+            </p>
+            <p>¶For the <hi>Foot,</hi> the uſuall <hi>Poſtures</hi> for the <hi>Pike</hi> are theſe;
+<list>
+                  <item>
+                     <hi>Handle your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Advance your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Port your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Advance your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge to the Rere your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Cheek your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Trail your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Recover and charge your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Order at cloſe order your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge for horſe your Pike.</hi>
+                  </item>
+                  <item>
+                     <hi>Recover your Pike.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>¶The <hi>Poſtures</hi> for the <hi>Musket</hi> are theſe;
+<list>
+                  <item>
+                     <hi>Put on your Bandeliers.</hi>
+                  </item>
+                  <item>
+                     <hi>Take up your Reſt.</hi>
+                  </item>
+                  <item>
+                     <hi>Take up your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Handle your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Give your Reſt to your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Open your Pan.</hi>
+                  </item>
+                  <item>
+                     <hi>Clear your Pan.</hi>
+                  </item>
+                  <item>
+                     <hi>Prime your Pan.</hi>
+                  </item>
+                  <item>
+                     <hi>Shut your Pan.</hi>
+                  </item>
+                  <item>
+                     <hi>Caſt off your looſe Powder.</hi>
+                  </item>
+                  <item>
+                     <hi>Blow off your looſe Powder.</hi>
+                  </item>
+                  <item>
+                     <hi>Caſt about your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Trail your Reſt.</hi>
+                  </item>
+                  <item>
+                     <hi>Open your Charge.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge with Powder</hi>
+                  </item>
+                  <item>
+                     <hi>Charge with Bullet.</hi>
+                  </item>
+                  <item>
+                     <hi>Draw forth your Skowring-ſtick.</hi>
+                  </item>
+                  <item>
+                     <hi>Shorten your Skowring-ſtick.</hi>
+                  </item>
+                  <item>
+                     <hi>Ramme home.</hi>
+                  </item>
+                  <item>
+                     <hi>Withdraw your Skowring-ſtick.</hi>
+                  </item>
+                  <item>
+                     <hi>Shorten your Skowring-ſtick.</hi>
+                  </item>
+                  <item>
+                     <hi>Return your Skowring-ſtick.</hi>
+                  </item>
+                  <item>
+                     <hi>Recover your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Poiſe your Musket &amp; recover your Reſt.</hi>
+                  </item>
+                  <item>
+                     <hi>Give your Reſt to your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Draw forth your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Blow your Coal.</hi>
+                  </item>
+                  <pb facs="tcp:17104:5"/>
+                  <item>
+                     <hi>Cock your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Trie your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Guard your Pan, and blow.</hi>
+                  </item>
+                  <item>
+                     <hi>Open your Pan.</hi>
+                  </item>
+                  <item>
+                     <hi>Preſent.</hi>
+                  </item>
+                  <item>
+                     <hi>Give fire.</hi>
+                  </item>
+                  <item>
+                     <hi>Diſmount your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ncock your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Return your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>So make ready as before.</hi>
+                  </item>
+                  <item>
+                     <hi>March with your Reſt in your right hand.</hi>
+                  </item>
+                  <item>
+                     <hi>Carrie your Reſt with your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nſhoulder your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Poiſe your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Reſt your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Draw forth your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Blow your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Cock your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>Trie your Match.</hi>
+                  </item>
+                  <item>
+                     <hi>The Sentinell poſture.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The manner how to perform theſe <hi>poſtures,</hi> both of <hi>Pike</hi> and <hi>Musket,</hi> is fully ſhewed in the <hi>figures</hi> annexed.</p>
+            <p>Theſe poſtures in ſervice are reduced to theſe three more ge<g ref="char:EOLhyphen"/>nerall words, namely, <hi>Make ready, Preſent,</hi> and <hi>Give fire.</hi>
+            </p>
+            <p>Having attained the uſe of their <hi>Armes,</hi> they muſt be taught their <hi>militarie Motions.</hi> To do this, they muſt be ordered into a <hi>Body,</hi> compoſed of <hi>Files.</hi>
+            </p>
+            <p>
+               <note place="margin">Aelian. cap. 5.</note>A <hi>File</hi> is a ſequence of <hi>Men</hi> placed right after a <hi>Leader,</hi> every one <hi>according to his worth;</hi> and conſiſteth (at the moſt) of ten men, which are thus diſtinguiſhed;
+<table>
+                  <row>
+                     <cell role="label">Number of place.</cell>
+                     <cell role="label">Number of dignitie.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Leader.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>5 Middle-man.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>6 Middle-man.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>10 Bringer-up.</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:17104:5"/>
+            <p>A <hi>Rank</hi> is a <hi>row of Side-men,</hi> ſtanding one by another in a <hi>right line, ſhoulder to ſhoulder;</hi> and are thus diſtinguiſhed; <table>
+                  <row>
+                     <cell cols="10">Number of place.</cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell>9.</cell>
+                     <cell>8.</cell>
+                     <cell>7.</cell>
+                     <cell>6.</cell>
+                     <cell>5.</cell>
+                     <cell>4.</cell>
+                     <cell>3.</cell>
+                     <cell>2.</cell>
+                     <cell>1.</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>6.</cell>
+                     <cell>10.</cell>
+                     <cell>7.</cell>
+                     <cell>3.</cell>
+                     <cell>4.</cell>
+                     <cell>8.</cell>
+                     <cell>9.</cell>
+                     <cell>5.</cell>
+                     <cell>1.</cell>
+                  </row>
+                  <row>
+                     <cell cols="10">Number of dignitie.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>That which follows next is <hi>diſtance;</hi> whereof there be three kinds moſt uſuall: <hi>Open order,</hi> which is 6 foot in <hi>Rank</hi> and <hi>File; Order,</hi> which is 3 foot in <hi>Rank</hi> and <hi>File;</hi> and <hi>Cloſe order,</hi> which is a foot and half between <hi>File</hi> and <hi>File.</hi>
+            </p>
+            <p>
+               <hi>Open order</hi> is uſed when a companie is to be exerciſed: <hi>Order,</hi> when they come to <hi>fight,</hi> or <hi>wheel: Cloſe order in File,</hi> is onely for the Pikes when they come to charge the enemie, or to receive a charge.</p>
+            <p>In a long March, the <hi>Files</hi> are at <hi>Order,</hi> and the <hi>Ranks</hi> at <hi>Open order.</hi> The uſuall way to meaſure theſe <hi>diſtances,</hi> is thus; <hi>Open or<g ref="char:EOLhyphen"/>der</hi> between <hi>File</hi> and <hi>File</hi> is, when the Souldiers ſtretching out their arms, their hands touch each other; and between the <hi>Ranks,</hi> when the butt-end of the ſhouldred Pikes almoſt reach to their <hi>Leaders</hi> heels. And for <hi>Order</hi> between the <hi>Files,</hi> when the Souldiers ſetting their arms a kembo, their elbows touch; and in <hi>Ranks,</hi> when they come up to their <hi>Leaders</hi> ſwords point. <hi>Cloſe order,</hi> is ſhoulder to ſhoulder.</p>
+            <p>The <hi>Motions</hi> are of 4 kinds, namely, <hi>Facings, Doublings, Coun<g ref="char:EOLhyphen"/>termarches,</hi> and <hi>Wheelings.</hi>
+            </p>
+            <pb facs="tcp:17104:6"/>
+            <p>Suppoſe a <hi>Companie</hi> of 100 men (<note n="u" place="margin">Orders, 1623.</note> which is the number thought fitteſt) whereof 50 to be <hi>Muskets,</hi> and 50 <hi>Pikes:</hi> being drawn up (by <hi>Files</hi>) into a <hi>Body,</hi> at their <hi>Open order,</hi> they ſtand thus,
+<list>
+                  <item>
+                     <hi>Stand right in your Files.</hi>
+                  </item>
+                  <item>
+                     <hi>Make even your Ranks.</hi>
+                  </item>
+                  <item>
+                     <hi>Silence.</hi>
+                  </item>
+               </list>
+            </p>
+            <figure>
+               <p>
+                  <hi>Front.</hi>
+               </p>
+               <p>
+                  <hi>Right Flank.</hi>
+               </p>
+               <p>
+                  <hi>Rere.</hi>
+               </p>
+               <p>
+                  <hi>Left Flank.</hi>
+               </p>
+            </figure>
+            <pb facs="tcp:17104:6"/>
+            <figure>
+               <head>To the right hand.</head>
+            </figure>
+            <p>This motion is performed by turning (all at once) to the right hand, keeping the left foot fixed. Thus, they are ready to receive a charge on the <hi>Flank.</hi> To reduce them, you command, <hi>As you were.</hi>
+            </p>
+            <p>To face them to the left, you command, <hi>To the left hand.</hi>
+            </p>
+            <p>And reduce them as before.</p>
+            <pb facs="tcp:17104:7"/>
+            <figure>
+               <head>To the right hand about.</head>
+            </figure>
+            <p>To reduce them, you command, <hi>By the left hand as you were.</hi>
+            </p>
+            <p>There be many other <hi>Facings,</hi> as, <hi>To the right and left</hi> (by ½ Ranks) <hi>outward</hi> and <hi>inward;</hi> By the <hi>Half-files;</hi> To the <hi>Angles;</hi> To the <hi>Centre;</hi> and the like: which are here omitted for brevitie ſake.</p>
+            <pb facs="tcp:17104:7" rendition="simple:additions"/>
+            <figure>
+               <head>Ranks to the right double.</head>
+            </figure>
+            <p>The ſecond <hi>Rank</hi> paſſeth into the firſt, the fourth into the third, and ſo ſucceſſively, every man ſtanding at his <hi>Leaders</hi> right hand.</p>
+            <p>
+               <hi>Ranks as you were.</hi>
+            </p>
+            <p>By the left hand they fall into their places.</p>
+            <p>
+               <hi>Ranks to the left double.</hi>
+            </p>
+            <p>Which is done as the former, onely the hand is changed.</p>
+            <p>They are reduced as before; every man that doubled falls into his place by the right hand.</p>
+            <pb facs="tcp:17104:8"/>
+            <figure>
+               <head>Middle-men, to the right hand double the Front.</head>
+            </figure>
+            <list>
+               <head>Middle-men, as you were.</head>
+               <item>
+                  <hi>Middle-men, to the left hand double the Front.</hi>
+               </item>
+               <item>
+                  <hi>Bringers-up to the</hi>
+                  <list>
+                     <item>
+                        <hi>right</hi>
+                     </item>
+                     <item>or <hi>left</hi>
+                     </item>
+                  </list> 
+                  <hi>double the Front.</hi>
+               </item>
+            </list>
+            <p>Which makes the Figure as the former, but that the <hi>laſt Rank</hi> begins the motion, and ſtandeth within the <hi>firſt Rank.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Middle-men to the</hi>
+                  <list>
+                     <item>
+                        <hi>right</hi>
+                     </item>
+                     <item>or <hi>left</hi>
+                     </item>
+                  </list> 
+                  <hi>entire,</hi> or <hi>by diviſion, double the Front.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:17104:8" rendition="simple:additions"/>
+            <figure>
+               <head>Files to the right double.</head>
+            </figure>
+            <p>The ſecond <hi>File</hi> moveth into the firſt, every man behind his <hi>Right-ſide-man;</hi> the fourth into the third; and ſo ſucceſſively.</p>
+            <list>
+               <item>
+                  <hi>Files as you were.</hi>
+               </item>
+               <item>
+                  <hi>Files to the left double.</hi>
+               </item>
+            </list>
+            <p>Which is as the former, onely the hand changed.</p>
+            <p>
+               <hi>Files as you were.</hi>
+            </p>
+            <pb facs="tcp:17104:9"/>
+            <figure>
+               <head>Files to the right hand Countermarch.</head>
+            </figure>
+            <p>Every <hi>File-leader</hi> advanceth with the right leg turning to the right hand about, and marcheth untill he come into the ground where the laſt <hi>Rank</hi> ſtood; the other <hi>Ranks</hi> move up to the <hi>File-leaders</hi> ground, and there turn as the firſt, ſucceſſively.</p>
+            <list>
+               <head>Files to the left Countermarch.</head>
+               <item>
+                  <hi>Ranks to the</hi>
+                  <list>
+                     <item>
+                        <hi>right</hi>
+                     </item>
+                     <item>or <hi>left</hi>
+                     </item>
+                  </list> 
+                  <hi>Countermarch.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:17104:9"/>
+            <p>
+               <hi>Files to the</hi>
+               <list>
+                  <item>
+                     <hi>right,</hi>
+                  </item>
+                  <item>
+                     <hi>left,</hi> or</item>
+                  <item>
+                     <hi>middle</hi>
+                  </item>
+               </list> 
+               <hi>cloſe to your order.</hi>
+            </p>
+            <p>
+               <hi>Ranks cloſe forward to your order.</hi>
+            </p>
+            <p>
+               <hi>To the right hand wheel.</hi>
+            </p>
+            <figure/>
+            <p>All the body <hi>wheels</hi> towards the right, upon the right hand <hi>File-leader,</hi> as the <hi>Centre.</hi>
+            </p>
+            <p>
+               <hi>To the left hand wheel.</hi>
+            </p>
+            <p>
+               <hi>To the</hi>
+               <list>
+                  <item>
+                     <hi>right</hi>
+                  </item>
+                  <item>or <hi>left</hi>
+                  </item>
+               </list> 
+               <hi>about wheel.</hi>
+            </p>
+            <p>There be divers other <hi>Doublings, Countermarches,</hi> and <hi>Wheelings:</hi> but becauſe the <hi>Trained bands</hi> are not ſo capable of them, and there be many books publiſhed on that ſubject, they are here (for brevi<g ref="char:EOLhyphen"/>tie) omitted.</p>
+            <p>Concerning <hi>Skirmiſh</hi> (for which they are now in fitting <hi>diſtance</hi>) there be divers and ſundrie <hi>Forms,</hi> both againſt <hi>Horſe</hi> and <hi>Foot.</hi> Uſually, the fight is begun by drawing out ſome <hi>Files</hi> disbanded; or elſe by 2 <hi>Ranks</hi> advancing 10 paces before the body, which make ready together: a <hi>Sergeant</hi> (or ſome other Officer) there ſtands, to whom theſe 2 firſt <hi>Ranks</hi> come up; then <hi>preſent,</hi> and <hi>give fire,</hi> firſt the firſt <hi>Rank,</hi> then the ſecond; ſo fall off into the <hi>Rere,</hi> into their own <hi>Files.</hi> So ſoon as the two firſt <hi>Ranks</hi> advance for<g ref="char:EOLhyphen"/>wards, the two next <hi>Ranks</hi> muſt <hi>make ready,</hi> then advance forward 10 paces, and do as the former two <hi>Ranks;</hi> ſo all ſucceſſively.
+<pb facs="tcp:17104:10" rendition="simple:additions"/> They may then fire even with the <hi>Front</hi> of <hi>Pikes;</hi> then on the <hi>Half-files,</hi> or as they ſhall be commanded.</p>
+            <p>To fire to the <hi>Rere,</hi> the laſt <hi>Rank</hi> makes ready, keeping ſtill with the bodie; being <hi>ready,</hi> they <hi>preſent</hi> to the <hi>right about;</hi> then fire, and march a round pace, and place themſelves in <hi>Front</hi> in the ſame order as they were ranked: ſo all the reſt ſucceſſively.</p>
+            <p>To fire by <hi>Flanks,</hi> the outermoſt <hi>File</hi> towards the enemy makes ready, marching with the body; then <hi>faces</hi> and <hi>preſents</hi> to the hand commanded, and fires: the next <hi>File</hi> to that doeth the like; and being marched clear off that <hi>File,</hi> gives fire: ſo all the reſt. An Officer is to lead up the <hi>Files</hi> which have given fire, either in the ſame order they ſtood in, or to conveigh them beyond the left <hi>Files</hi> of <hi>Musketiers,</hi> or within the <hi>Pikes,</hi> or beyond the <hi>Pikes</hi> on the left <hi>Flank,</hi> as ſhall be thought beſt.</p>
+            <p>The <hi>Musketiers</hi> muſt ever be carefull (whether being ſhouldred or making ready) to mount the muzzle of their <hi>Musket.</hi>
+            </p>
+            <p>The <hi>Front Half-files</hi> of <hi>Pikes</hi> are onely to charge their <hi>Pikes,</hi> the <hi>Rere Half-files</hi> to port them in time of fight.</p>
+            <p>¶Touching the <hi>untrained forces;</hi> all able-bodied men untrained from 16 yeares to 60 muſt be <hi>inrolled.</hi>
+               <note place="margin">LL. of Coun<g ref="char:EOLhyphen"/>ſels letters, April 27. 1635. and Orders, 1626.</note> And the abler ſort of men are to be provided of <hi>Armes</hi> for their particular uſes. With theſe <hi>Armes,</hi> and the <hi>Armes</hi> of Recuſants ſequeſtred, ſuch leavies as ſhall be made upon any ſudden occaſion out of the untrained men, are to be armed; and then exerciſed and ordered into Companies.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="instructions">
+            <pb facs="tcp:17104:10" rendition="simple:additions"/>
+            <figure>
+               <head>1 Put on yo<hi rend="sup">r</hi>. Bandeliers.</head>
+            </figure>
+            <p>Take up the Bandeliers in the right hand, hold them in the hollow betweene the thumb and forfinger, then clearing yo<hi rend="sup">r</hi> boxes from tan<g ref="char:EOLhyphen"/>gling with yo<hi rend="sup">r</hi> left hand<g ref="char:punc">▪</g> put yo<hi rend="sup">r</hi> elbow throu<g ref="char:EOLunhyphen"/>gh the handeleir and bring yo<hi rend="sup">r</hi> right hand ouer yo<hi rend="sup">r</hi> head, takeing your hat in the left hand leaue the bandeleir on yo<hi rend="sup">r</hi> left sholder.</p>
+            <figure>
+               <head>2 Take vp your Rest</head>
+            </figure>
+            <p>Take your Rest in the Right hand at the foote end then take it in the left about the middle they with the right hand take it at the iron and put your left hand through the string and hold the Rest with the left hand</p>
+            <figure>
+               <head>3 Take up you<hi rend="sup">r</hi> Match.</head>
+            </figure>
+            <p>Take up the Match at the middle with your, thumb and fore finger of the left hand, then with your thumb and second finger of the Right hand peace one end of the match be<g ref="char:EOLunhyphen"/>tweene the greate and Ring finger and the o<g ref="char:EOLunhyphen"/>ther end betweene the Ring and little finger of the left hand and so let the middle hang downe.</p>
+            <figure>
+               <head>4 Handle your Musket</head>
+            </figure>
+            <p>Standing at the But end of yo<hi rend="sup">r</hi> muſket w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right foote, the left ſomwhat aduanced and the knee bent) w<hi rend="sup">ch</hi> is the generall proper stand of a Muſketier gi<g ref="char:EOLhyphen"/>ue a large ſtep with yo<hi rend="sup">r</hi> right legge, then stooping downe yet bearing up yo<hi rend="sup">r</hi> head, with yo<hi rend="sup">r</hi> right hand gripe the Musket, and ſo raising up yo<hi rend="sup">r</hi> body fall back to y<hi rend="sup">e</hi> first stand.</p>
+            <pb facs="tcp:17104:11" rendition="simple:additions"/>
+            <pb facs="tcp:17104:11" rendition="simple:additions"/>
+            <figure>
+               <head>5 Order yo<hi rend="sup">r</hi>. Musket</head>
+            </figure>
+            <p>Being come to your first stand hold yo<hi rend="sup">r</hi> Musket barrell in yo<hi rend="sup">r</hi> hand about the height of your shoulder with the But end on the ground, Jn your left hand hold the Rest a little below the forke, the Pike end on the ground</p>
+            <figure>
+               <head>6 Giue your Rest to your Musket</head>
+            </figure>
+            <p>Sinke downe your right hand not bowing yo<hi rend="sup">r</hi> bodie, then gripe your musket and lift it up the bring about the left hand with the rest and ioyne it to your musket on the out ſide, holding yo<hi rend="sup">r</hi> thumb hard against the forke of the Rest and ſo carry both muſket and Rest in the left hand onely.</p>
+            <figure>
+               <head>7 Open your Pann</head>
+            </figure>
+            <p>Jn the ioyning of yo<hi rend="sup">r</hi>. muſket and Rest toge<g ref="char:EOLhyphen"/>ther, fall back with your right leg to your proper stand, then hold the thumb of the Right hand behind the ſcutchian of the Pan, and with yo<hi rend="sup">r</hi>. two forme<hi rend="sup">r</hi>r fingers draw back y<hi rend="sup">e</hi> couer of y<hi rend="sup">e</hi> Pan.</p>
+            <figure>
+               <head>8 Cleare yo<hi rend="sup">r</hi>. Pann</head>
+            </figure>
+            <p>Bring up your muſket with the left hand only, towards your mouth and blowe your Pan stiflie not sloo<g ref="char:EOLhyphen"/>ping upon anie termes, and in the meane time with yo<hi rend="sup">r</hi>. right hand take your touch box as in the figure 8</p>
+            <pb facs="tcp:17104:12"/>
+            <pb facs="tcp:17104:12" rendition="simple:additions"/>
+            <figure>
+               <head>9 Prime your Panne</head>
+            </figure>
+            <p>Hould yo<hi rend="sup">r</hi> touch box betweene the thumbe and fore finger of the right hand onely and ſo Prime as in the figure.</p>
+            <figure>
+               <head>10 shut your Panne</head>
+            </figure>
+            <p>Lay the right thumbe ouer the barrell neere the Pan, and with your two foremost fingers ſhutt the Panne.</p>
+            <figure>
+               <head>11 cast of yo<hi rend="sup">r</hi>: looſe Pouder</head>
+            </figure>
+            <p>Hould yo<hi rend="sup">r</hi>. muſket fast with the right hand at the breech, the left as before turneing the Panne. downewards y<hi rend="sup">t</hi> the looſe pouder may fall of.</p>
+            <figure>
+               <head>12 Blow of yo<hi rend="sup">r</hi>. looſe Powder.</head>
+            </figure>
+            <p>Hould yo<hi rend="sup">r</hi>. musket in both hands as before, beare it vp towards your mouth, not ſtooping blow of the looſe powder.</p>
+            <pb facs="tcp:17104:13" rendition="simple:additions"/>
+            <pb facs="tcp:17104:13" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>13</hi> Cast about yo<hi rend="sup">r</hi> Musket</head>
+            </figure>
+            <p>Hold yo<hi rend="sup">r</hi> muſket in both hands as before beare it right vp towards yo<hi rend="sup">r</hi> left ſide and w<hi rend="sup">th</hi> all ſtep forwards y<hi rend="sup">e</hi> right leg then holding the muſket only in the right hand at the breech forſake the Rest</p>
+            <figure>
+               <head>14 Trayſe your Reſt</head>
+            </figure>
+            <p>Haueing forſaken yo<hi rend="sup">r</hi> rest take the Muſket into the left hand about y<hi rend="sup">e</hi> midle of y<hi rend="sup">e</hi> barrell ſo as y<hi rend="sup">e</hi> butt end touch not y<hi rend="sup">e</hi> ground trayling yo<hi rend="sup">r</hi> rest betweene yo<hi rend="sup">r</hi> muſket and yo<hi rend="sup">r</hi> bodie</p>
+            <figure>
+               <head>15 Open your charge.</head>
+            </figure>
+            <p>Take your charge in your right hand: with the thumb and forefinger thereof thruſt of the couer</p>
+            <figure>
+               <head>16 Charge with Powder.</head>
+            </figure>
+            <p>Put backe your left hand with the muſket as farre as conveniently you can, and w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand turne y<hi rend="sup">e</hi> powder into the muzell of the barrell holding y<hi rend="sup">e</hi> charge betweene yo<hi rend="sup">r</hi> thumb &amp; forefinger only as in y<hi rend="sup">e</hi> figure.</p>
+            <pb facs="tcp:17104:14"/>
+            <pb facs="tcp:17104:14" rendition="simple:additions"/>
+            <figure>
+               <head>17 charge with Bullet</head>
+            </figure>
+            <p>Take yo<hi rend="sup">r</hi>. Bullet forth of yo<hi rend="sup">r</hi> bag or out of yo<hi rend="sup">r</hi> mouth and put it into the muzell of your musket.</p>
+            <figure>
+               <head>18 Draw forth your ſcouring sticke</head>
+            </figure>
+            <p>With yo<hi rend="sup">r</hi>. right hand (y<hi rend="sup">e</hi> palme turnd from yo<hi rend="sup">r</hi>) draw forth yo<hi rend="sup">r</hi> ſcour<g ref="char:EOLhyphen"/>ing stick beareing yo<hi rend="sup">r</hi> bodie &amp; yo<hi rend="sup">r</hi> left hand w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> musket ſo farr back as you cann.</p>
+            <figure>
+               <head>19 Shorten your ſcour<g ref="char:EOLunhyphen"/>ing sticke</head>
+            </figure>
+            <p>Hauing drawne forth yo<hi rend="sup">r</hi> ſcouring sticke sett the Rammer head against yo<hi rend="sup">r</hi> brest and ſlip yo<hi rend="sup">r</hi> hand cloſe to yo<hi rend="sup">r</hi> Rammer y<hi rend="sup">t</hi> you may y<hi rend="sup">e</hi> eaſier put it into y<hi rend="sup">e</hi> muzell.</p>
+            <figure>
+               <head>20 Ramme Home.</head>
+            </figure>
+            <p>Put your ſcouring sticke downe into your musket and Ramme home hard twice or thrice.</p>
+            <pb facs="tcp:17104:15"/>
+            <pb facs="tcp:17104:15" rendition="simple:additions"/>
+            <figure>
+               <head>21 withdraw your ſcouring sticke</head>
+            </figure>
+            <p>With your right hand turned draw your ſcouring stick out of yo<hi rend="sup">r</hi> musket as before.</p>
+            <figure>
+               <head>22 shorten yo<hi rend="sup">r</hi> ſcouring sticke</head>
+            </figure>
+            <p>Your scouring sticke being drawn forth of y<hi rend="sup">e</hi> barrell, turne it, and bring the ſcouring sticke end to yo<hi rend="sup">r</hi> brest &amp; ſo ſlip yo<hi rend="sup">r</hi> hand w<hi rend="sup">th</hi>in an hand full of the end.</p>
+            <figure>
+               <head>23 Returne your ſcour<g ref="char:EOLhyphen"/>ing sticke</head>
+            </figure>
+            <p>Put the ſcouring sticke to his place from whence you had it</p>
+            <figure>
+               <head>
+                  <hi>24</hi> Recouer your Musket.</head>
+            </figure>
+            <p>Bring forward yo<hi rend="sup">r</hi> musket w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> left hand and beare it right vp Take it into y<hi rend="sup">e</hi> right hand at y<hi rend="sup">e</hi> breech and ſo hold it in y<hi rend="sup">e</hi> right hand only.</p>
+            <pb facs="tcp:17104:16"/>
+            <pb facs="tcp:17104:16" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>25</hi> Poize your Musket and recouer your Rest:</head>
+            </figure>
+            <p>Fall backe w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right leg to your first stand hold yo<hi rend="sup">r</hi> muſket in fright hand at y<hi rend="sup">e</hi> breech and recouer your rest in yo<hi rend="sup">r</hi> left hand holding it iust vnder y<hi rend="sup">e</hi> forke.</p>
+            <figure>
+               <head>
+                  <hi>26</hi> Giue your Rest to your Musket.</head>
+            </figure>
+            <p>Bring vp yo<hi rend="sup">r</hi> left hand w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> rest towards yo<hi rend="sup">r</hi> right ſide neere yo<hi rend="sup">r</hi> muſket and ſo ſinke yo<hi rend="sup">r</hi> muſket &amp; hold it w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> rest in y<hi rend="sup">e</hi> left hand only, the rest being one y<hi rend="sup">e</hi> out ſide of y<hi rend="sup">e</hi> muſket.</p>
+            <figure>
+               <head>
+                  <hi>27</hi> Draw forth yo<hi rend="sup">r</hi> Match</head>
+            </figure>
+            <p>Take yo<hi rend="sup">r</hi> match from betweene yo<hi rend="sup">r</hi> little finger w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> thumb and y<hi rend="sup">e</hi> ſecond finger of yo<hi rend="sup">r</hi> right hand being turned w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> Palme from yo<hi rend="sup">u</hi>.</p>
+            <figure>
+               <head>
+                  <hi>28</hi> Blow your Cole</head>
+            </figure>
+            <p>Bring the right hand w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> match backward and your left hand w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> muſket and rest forward, turning your face ſome what backward blow yo<hi rend="sup">r</hi> match ſtiffe</p>
+            <pb facs="tcp:17104:17"/>
+            <pb facs="tcp:17104:17" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>29</hi> Cocke your Match.</head>
+            </figure>
+            <p>Holding your match betweene yo<hi rend="sup">r</hi>. thumb and ſecond finger bring it to the cock, and preſse it into the cocke with the thumbe</p>
+            <figure>
+               <head>
+                  <hi>30</hi> Try yo<hi rend="sup">r</hi> Match.</head>
+            </figure>
+            <p>Your thumb and forefinger being upon the cocke and the ſecond and third finger under the cocke, pull the cock to the Pan and with the finger either raiſeor ſinkethe match</p>
+            <figure>
+               <head>31 Gard &amp; blow.</head>
+            </figure>
+            <p>lay the two forefingers of the right ha<g ref="char:cmbAbbrStroke">̄</g>d upon the pan, the thumb behind the ſcutchion of the pan the eaſier to lift up the muſket, and ſoe raiſing up the muſket with both hands blow as before in the i2 posture</p>
+            <figure>
+               <head>
+                  <hi>32</hi> Open your Pan</head>
+            </figure>
+            <p>with the two forefingers of the right hand open the Panne as in the 7 posture</p>
+            <pb facs="tcp:17104:18"/>
+            <pb facs="tcp:17104:18" rendition="simple:additions"/>
+            <figure>
+               <head>33 <hi>Preſent.</hi>
+               </head>
+            </figure>
+            <p>Remoue yor. right hand to the thumbe hole yo<hi rend="sup">r</hi> ſecond finger to y<hi rend="sup">e</hi> tricker with yo<hi rend="sup">r</hi> left hand fix the forke of y<hi rend="sup">e</hi> Rest to yo<hi rend="sup">r</hi> muſket and yo<hi rend="sup">r</hi> thumb against the forke, and the pike end of the reſt on the ground.</p>
+            <figure>
+               <head>
+                  <hi>34</hi> Giue Fire</head>
+            </figure>
+            <p>lift up yo<hi rend="sup">r</hi> right elbow and place the but end of yo<hi rend="sup">r</hi> muſket within yo<hi rend="sup">r</hi> shoulder nere your breaſt, the ſmall end appear<g ref="char:EOLhyphen"/>ing a little aboue youe shoulder standing w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> left leg foremost and the knee bent and the right leg standing stiffe</p>
+            <figure>
+               <head>
+                  <hi>35</hi> Diſmount yo<hi rend="sup">r</hi> Muſket</head>
+            </figure>
+            <p>Bring your musket and rest to your right ſide and carry both in the left hand onely</p>
+            <figure>
+               <head>
+                  <hi>36</hi> Vnco<hi rend="sup">c</hi>ke your Match</head>
+            </figure>
+            <p>Take the match from the cocke w<hi rend="sup">th</hi> the thumb and ſecond ſinger of yo<hi rend="sup">r</hi> right hand holding the muſket and rest in the left hand onely.</p>
+            <pb facs="tcp:17104:19"/>
+            <pb facs="tcp:17104:19" rendition="simple:additions"/>
+            <figure>
+               <head>37 Returne your Match.</head>
+            </figure>
+            <p>Put the match betweene the two leſſer fingers of the left hand from whence you had it.</p>
+            <p>Note from henc forward yo<hi rend="sup">u</hi> may Prime &amp; charge as be<g ref="char:EOLunhyphen"/>fore from y<hi rend="sup">e</hi> 8 postur and ſo forward as in y<hi rend="sup">e</hi> 25 postur</p>
+            <figure>
+               <head>
+                  <hi>38</hi> Shoulder yo<hi rend="sup">r</hi> Muſket.</head>
+            </figure>
+            <p>Haueing yo<hi rend="sup">r</hi>. muſket poized hold yo<hi rend="sup">r</hi> rest an handfull under the forke, then bring your musket before yo<hi rend="sup">r</hi>. bodie and yo<hi rend="sup">r</hi> rest croſſouer it behinde the thumb hole, and ſo with both hands lay it gently on yo<hi rend="sup">r</hi>. shoulder haueing the rest croſs yo<hi rend="sup">r</hi> body and withall bring yo<hi rend="sup">r</hi> right leg up to yo<hi rend="sup">r</hi> left, then fall back againe with yo<hi rend="sup">r</hi>. right leg.</p>
+            <figure>
+               <head>
+                  <hi>39</hi> March w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> rest in yo<hi rend="sup">r</hi> right hand.</head>
+            </figure>
+            <p>First take the match from the left hand betweene the fingers of the right hand, then take the string of the Rest from the left arme, and returne the match betweene the fingers of the left hand and take y<hi rend="sup">e</hi> reſt in y<hi rend="sup">e</hi> right ha<g ref="char:cmbAbbrStroke">̄</g>d.</p>
+            <figure>
+               <head>
+                  <hi>40</hi> March and w<hi rend="sup">th</hi> your Muſket carrie yo<hi rend="sup">r</hi>. rest.</head>
+            </figure>
+            <p>First shift the match as in the former direction, then put the string of the Rest ouer the left arme and the reſt in the hand and ſo returne the match and carry yo<hi rend="sup">r</hi> reſt as in the figure.</p>
+            <pb facs="tcp:17104:20"/>
+            <pb facs="tcp:17104:20" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>41</hi> Vnsholder yo<hi rend="sup">r</hi>. Muſket.</head>
+            </figure>
+            <p>Bringing up yo<hi rend="sup">r</hi> right leg to your left ſinke your muſket and carry it right up and withall turne it, that the pike end of yo<hi rend="sup">r</hi>. Rest be towards yo<hi rend="sup">r</hi> left ſide then take the Muſket at the breech with yo<hi rend="sup">r</hi> right hand and ſlip downe yo<hi rend="sup">r</hi> left with y<hi rend="sup">e</hi> reſt</p>
+            <figure>
+               <head>
+                  <hi>42</hi> Poyze your Muſket.</head>
+            </figure>
+            <p>Hold the Muſket right up in the right hand on yo<hi rend="sup">r</hi> right ſide raiſe yo<hi rend="sup">r</hi> left hand to y<hi rend="sup">e</hi> forke of yo<hi rend="sup">r</hi> rest, and ſet yo<hi rend="sup">r</hi> thumbe against the forke as in the figure.</p>
+            <figure>
+               <head>
+                  <hi>43</hi> Rest yo<hi rend="sup">r</hi> Muſket.</head>
+            </figure>
+            <p>Bring up yo<hi rend="sup">r</hi> left hand w<hi rend="sup">th</hi> the forke of the rest to the musket, and ſo lett Musket and rest ſinke downe togather and fall backe with yo<hi rend="sup">r</hi> right legge to your proper stand<g ref="char:punc">▪</g>
+            </p>
+            <figure>
+               <head>
+                  <hi>44</hi> Draw out yo<hi rend="sup">r</hi>. Match.</head>
+            </figure>
+            <p>Take the match beetweene the thumbe and the ſeacond finger of the right hand as in the xxvii posture and w<hi rend="sup">th</hi> the thumbe of your left hand hould the musket fast on the rest.</p>
+            <pb facs="tcp:17104:21"/>
+            <pb facs="tcp:17104:21" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>45</hi> Blow yo<hi rend="sup">r</hi>. Match.</head>
+            </figure>
+            <p>Beare your Musket and rest forward with the left hand, and your match backward in the right, and blow as in the 28 posture.</p>
+            <figure>
+               <head>
+                  <hi>46</hi> Cocke yo<hi rend="sup">r</hi> Match.</head>
+            </figure>
+            <p>Cocke your macth as in the 29<hi rend="sup">th</hi> posture</p>
+            <figure>
+               <head>
+                  <hi>47</hi> Try your Match.</head>
+            </figure>
+            <p>Try your match as in the 30<hi rend="sup">th</hi> posture.</p>
+            <figure>
+               <head>
+                  <hi>48</hi> The sentinell Posture.</head>
+            </figure>
+            <p>Hold the two forefingers of y<hi rend="sup">e</hi> right hand upon your pan, the thumb be<g ref="char:EOLhyphen"/>hind the ſcutchian ready upon all occaſions</p>
+         </div>
+         <div type="instructions">
+            <pb facs="tcp:17104:22"/>
+            <pb facs="tcp:17104:22" rendition="simple:additions"/>
+            <figure>
+               <head>1 Handle yo<hi rend="sup">r</hi> Pike.</head>
+            </figure>
+            <p>Standing at the but end of yo<hi rend="sup">r</hi> Pike fall backward w<hi rend="sup">i</hi>th yo<hi rend="sup">r</hi> left foot, and with yo<hi rend="sup">r</hi> right hand turned, take your Pike at the But end and bring yo<hi rend="sup">r</hi> right ha<g ref="char:cmbAbbrStroke">̄</g>d up to your hip.</p>
+            <figure>
+               <head>
+                  <hi>2</hi> Recouer your Pike &amp; Order.</head>
+            </figure>
+            <p>Bring yo<hi rend="sup">r</hi> left foote before yo<hi rend="sup">r</hi> right, and with yo<hi rend="sup">r</hi> left hand take yo<hi rend="sup">r</hi> Pike forwards bearing the butt end downward, and remoue yo<hi rend="sup">r</hi> right hand aboue yo<hi rend="sup">r</hi> left</p>
+            <figure>
+               <head>
+                  <hi>3</hi> Order yo<hi rend="sup">r</hi> Pike.</head>
+            </figure>
+            <p>Set the but end of yo<hi rend="sup">r</hi> Pike nere your right foote on the outſide, holding it right up in yo<hi rend="sup">r</hi> right hand, about the height of yo<hi rend="sup">r</hi> eye, and your arme a little Bending, and yo<hi rend="sup">r</hi> right foote forward</p>
+            <figure>
+               <p>
+                  <hi>4</hi> Aduance yo<hi rend="sup">r</hi> Pike in three motions.</p>
+               <p>The first Motion.</p>
+            </figure>
+            <p>with the right hand alone bring yo<hi rend="sup">r</hi> Pike iuſt before yo<hi rend="sup">r</hi> body, bearing it directly right up, raiſing the but end from the ground, then take y<hi rend="sup">e</hi> Pike with yo<hi rend="sup">r</hi> left hand about y<hi rend="sup">e</hi> height your girdle</p>
+            <pb facs="tcp:17104:23"/>
+            <pb facs="tcp:17104:23" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>5</hi> the ſeacond Motion</head>
+            </figure>
+            <p>Forsake the Pike with your right hand and with the left hand alone raiſe up the Pike, that the But end be about the height of yo<hi rend="sup">r</hi> thigh, then take y<hi rend="sup">e</hi> But end in yo<hi rend="sup">r</hi>. right hand, without ſtooping to it</p>
+            <figure>
+               <head>
+                  <hi>6</hi> the third Motion being Aduanced</head>
+            </figure>
+            <p>Forsake the Pike with the left hand and with yo<hi rend="sup">r</hi> right hand alone carry the Pike right up locking the Pike betweene yo<hi rend="sup">r</hi> shoulder and arme. yo<hi rend="sup">r</hi> right hand holding the but end of the Pike about the height of yo<hi rend="sup">r</hi> hip.</p>
+            <figure>
+               <p>
+                  <hi>7</hi> Order yo<hi rend="sup">r</hi> Pike in three motions.</p>
+               <p>the first Motion.</p>
+            </figure>
+            <p>Sinke your right hand a little and with your left hand take the Pike as high as well you can reach and bring y<hi rend="sup">e</hi> Pike iuſt before yo<hi rend="sup">r</hi> Body.</p>
+            <figure>
+               <head>
+                  <hi>8</hi> the 2<hi rend="sup">d</hi> Motion</head>
+            </figure>
+            <p>Forsake the Pike with yo<hi rend="sup">r</hi> right hand, and bring down the pike in your left hand that the but end be nere unto the ground, then w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand take y<hi rend="sup">e</hi> pike about the height of yo<hi rend="sup">r</hi> head.</p>
+            <pb facs="tcp:17104:24"/>
+            <pb facs="tcp:17104:24" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>9</hi> The 3<hi rend="sup">d</hi> motion being ordered</head>
+            </figure>
+            <p>Forsak y<hi rend="sup">r</hi> Pike with your left hand, and with the right hand only ſet the but end on the ground, on the outſide of yo<hi rend="sup">r</hi> right foote as in the third Posture.</p>
+            <figure>
+               <p>10 Shoulder yo<hi rend="sup">r</hi>. Pike in 3 motions</p>
+               <p>The first Motion</p>
+            </figure>
+            <p>Bring y<hi rend="sup">e</hi> Pike iuſt before yo<hi rend="sup">r</hi> body and raiſe the but end from y<hi rend="sup">e</hi> ground bearing it forward, then take it with yo<hi rend="sup">r</hi> left hand a little beneath yo<hi rend="sup">r</hi> right.</p>
+            <figure>
+               <head>12 The ſeacond Motion.</head>
+            </figure>
+            <p>Bring forward the Pike with yo<hi rend="sup">r</hi> left hand, and take it in your right, reaching backward as farr as well you may.</p>
+            <figure>
+               <head>12 The 2<hi rend="sup">d</hi> motion being Sholdred</head>
+            </figure>
+            <p>Forſake yo<hi rend="sup">r</hi> Pike with yo<hi rend="sup">r</hi> left hand, and with the right onely lay it vpon yo<hi rend="sup">r</hi> right shoulder, bearing the but end about a foote from the ground, hold<g ref="char:EOLhyphen"/>ing yo<hi rend="sup">r</hi> thumb vnder the Pike, the better to gouern it, carrying the pike forward.</p>
+            <pb facs="tcp:17104:25"/>
+            <pb facs="tcp:17104:25" rendition="simple:additions"/>
+            <figure>
+               <p>13 Port yo<hi rend="sup">r</hi>. Pike in 3 motions.</p>
+               <p>the first Motion.</p>
+            </figure>
+            <p>Beare yo<hi rend="sup">r</hi> right hand w<hi rend="sup">th</hi> the pike back<g ref="char:EOLunhyphen"/>ward as farr as well you can, w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi>. left hand take y<hi rend="sup">e</hi> pike forward, &amp; w<hi rend="sup">th</hi>. the right hand beare y<hi rend="sup">e</hi> pike vp<g ref="char:EOLunhyphen"/>ward.</p>
+            <figure>
+               <head>14 The 2<hi rend="sup">d</hi> Motion.</head>
+            </figure>
+            <p>Forſaking y<hi rend="sup">e</hi> Pike w<hi rend="sup">th</hi> the right hand cast y<hi rend="sup">e</hi> poynt forward that y<hi rend="sup">e</hi> But end may conveniently be taken in y<hi rend="sup">e</hi> right hand.</p>
+            <figure>
+               <head>15 The 3<hi rend="sup">d</hi> motion being Ported.</head>
+            </figure>
+            <p>Take y<hi rend="sup">e</hi> But end of y<hi rend="sup">e</hi> Pike in yo<hi rend="sup">r</hi> right hand holding it about yo<hi rend="sup">r</hi> hip, and raiſing the pike w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> left hand aboute y<hi rend="sup">e</hi> hight of yo breast carry y<hi rend="sup">e</hi> Pike directly before yo<hi rend="sup">u</hi> yo<hi rend="sup">r</hi> left foote forward.</p>
+            <figure>
+               <head>16 Charge yo<hi rend="sup">r</hi> Pike</head>
+            </figure>
+            <p>Raiſe y<hi rend="sup">e</hi> right hand and strech it backward, yo<hi rend="sup">r</hi> left hand being at yo<hi rend="sup">r</hi> breast, yo<hi rend="sup">r</hi> left elbow against yo<hi rend="sup">r</hi> hip</p>
+            <pb facs="tcp:17104:26"/>
+            <pb facs="tcp:17104:26" rendition="simple:additions"/>
+            <figure>
+               <head>17 Advance yo<hi rend="sup">r</hi>. Pike.</head>
+            </figure>
+            <p>Beare downe the butt end of y<hi rend="sup">e</hi> Pike w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand and raiſe y<hi rend="sup">e</hi> pike with y<hi rend="sup">e</hi> left, and ſo advance as in y<hi rend="sup">e</hi> 6 figure.</p>
+            <figure>
+               <p>18 Sholder yo<hi rend="sup">r</hi>. Pike in 3 Motions.</p>
+               <p>The first motion.</p>
+            </figure>
+            <p>Sinke yo<hi rend="sup">r</hi> right hand, and w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> left take y<hi rend="sup">e</hi> pike as high as well yo<hi rend="sup">u</hi> can reach bringing the pike iuſt before yo<hi rend="sup">r</hi> body</p>
+            <figure>
+               <head>19 The 2<hi rend="sup">d</hi> motion.</head>
+            </figure>
+            <p>Forſake the butt end w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand bring forward yo<hi rend="sup">r</hi> Pike in the left hand, and take the pike backward in y<hi rend="sup">e</hi> right hand as farr as well you may reach.</p>
+            <figure>
+               <head>20 The 3<hi rend="sup">d</hi> motio<g ref="char:cmbAbbrStroke">̄</g> being Sholdred</head>
+            </figure>
+            <p>Forſake y<hi rend="sup">e</hi> Pike w<hi rend="sup">th</hi> the left hand, &amp; with the right only lay it vpon your shoulder &amp;c: as in y<hi rend="sup">e</hi> i2 figure.</p>
+            <pb facs="tcp:17104:27"/>
+            <pb facs="tcp:17104:27" rendition="simple:additions"/>
+            <figure>
+               <p>21 Charge to y<hi rend="sup">e</hi> Reare in <hi>3</hi> motions.</p>
+               <p>the first motion.</p>
+            </figure>
+            <p>Beare the pike w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi>. right hand backward, take it forward in yo<hi rend="sup">r</hi> left hand as far as yo<hi rend="sup">u</hi> may con<g ref="char:EOLhyphen"/>veniently reach, bearing y<hi rend="sup">e</hi> pike w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand vpward</p>
+            <figure>
+               <head>
+                  <hi>22</hi> The 3<hi rend="sup">d</hi> motion.</head>
+            </figure>
+            <p>Forſaking the Pike w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand, beare it ouer yo<hi rend="sup">r</hi> head and at the ſame instant turne yo<hi rend="sup">r</hi> body to y<hi rend="sup">e</hi> left hand that yo<hi rend="sup">u</hi> may conveniently take y<hi rend="sup">e</hi> butt end of y<hi rend="sup">e</hi> Pike in yo<hi rend="sup">r</hi> right hand.</p>
+            <figure>
+               <head>
+                  <hi>23</hi> the 3<hi rend="sup">d</hi> motion being Charged.</head>
+            </figure>
+            <p>Hauing y<hi rend="sup">e</hi> butt end of y<hi rend="sup">e</hi> Pike in yo<hi rend="sup">r</hi> right hand ſtretch yo<hi rend="sup">r</hi> right arme backward and ſett your left hand at yo<hi rend="sup">r</hi> breast &amp;c as in y<hi rend="sup">e</hi> i6 figur</p>
+            <figure>
+               <p>
+                  <hi>24</hi> Recouer yo<hi rend="sup">r</hi> Pike and Sholder in <hi>3</hi> motions</p>
+               <p>The first motion.</p>
+            </figure>
+            <p>Slip yo<hi rend="sup">r</hi> left hand forward as farr as well yo<hi rend="sup">u</hi> may and lift y<hi rend="sup">e</hi> Pike vpwards to yo<hi rend="sup">r</hi> head &amp; w<hi rend="sup">th</hi> the right hand beare y<hi rend="sup">e</hi> But end ſomwhat downward.</p>
+            <pb facs="tcp:17104:28"/>
+            <pb facs="tcp:17104:28" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>25</hi> The ſeacond motion.</head>
+            </figure>
+            <p>Forsakeing the But end of the Pike with yo<hi rend="sup">r</hi> right hand, beare in the Pike ouer your head with your. left hand only and that inſtant turn yo<hi rend="sup">r</hi> face to y<hi rend="sup">e</hi> right hand, and be ready with yo<hi rend="sup">r</hi> right hand to take y<hi rend="sup">e</hi> Pike more Backward.</p>
+            <figure>
+               <head>
+                  <hi>26</hi> The 3<hi rend="sup">d</hi> motion being Sholdred</head>
+            </figure>
+            <p>Hauing the Pike in the right hand forsake it with your left and with the right hand only, lay it on your sholder, as in the i2 and <hi>20</hi> figurs,</p>
+            <figure>
+               <head>
+                  <hi>27</hi> Order yo<hi rend="sup">r</hi> Pike</head>
+            </figure>
+            <p>This is to be done in 3 motions as the con<g ref="char:EOLhyphen"/>trary is showne in y<hi rend="sup">e</hi>. 9. i0. ii. figures Beare the Pike with the right hand back<g ref="char:EOLhyphen"/>ward, with yo<hi rend="sup">r</hi> left take it forward, bear<g ref="char:EOLhyphen"/>ing the but end downward, then ſlip down your right hand a little aboue yo<hi rend="sup">r</hi> left and ſet y<hi rend="sup">e</hi> but end on y<hi rend="sup">e</hi> ground, as in y<hi rend="sup">e</hi>: 9 figur</p>
+            <figure>
+               <p>
+                  <hi>28</hi> Cheeke yo<hi rend="sup">r</hi> Pike</p>
+               <p>the first motion</p>
+            </figure>
+            <p>This is to be done by ſeuerall palm<g ref="char:EOLhyphen"/>ing poſtures, firſt with the right hand beare the but end of the Pike backward, as farr as yo<hi rend="sup">u</hi> can and ſo Contie<g ref="char:cmbAbbrStroke">̄</g>w palming till yo<hi rend="sup">u</hi> come to the head of your Pike</p>
+            <pb facs="tcp:17104:29"/>
+            <pb facs="tcp:17104:29" rendition="simple:additions"/>
+            <figure>
+               <head>
+                  <hi>29</hi> The 2<hi rend="sup">d</hi> motion being Cheeked</head>
+            </figure>
+            <p>With yo<hi rend="sup">r</hi> left hand hold the Pike a little below the head, your right hand more backward, as farre as the cheekes or arming reach, ſet yo<hi rend="sup">r</hi> right hand upon yo<hi rend="sup">r</hi> hip, yo<hi rend="sup">r</hi> elbow ſtretcht forth and yo<hi rend="sup">r</hi> left hand more forward before yo<hi rend="sup">r</hi> breaſt.</p>
+            <figure>
+               <head>
+                  <hi>30</hi> Trayle yo<hi rend="sup">r</hi> Pike</head>
+            </figure>
+            <p>Remoue your Right hand to your left, and in your right hand only carry your Pike, your hand Being upon your hip.</p>
+            <figure>
+               <head>31 Recouer yo<hi rend="sup">r</hi> Pike and Charge</head>
+               <p>The first Palmeing motion</p>
+            </figure>
+            <p>This to be done by ſeuerall Pal<g ref="char:EOLhyphen"/>ming poſtures backward, Bring forward your right hand as farr as well you can, and with y<hi rend="sup">e</hi> left hand gripe the pike Backward as farr as you can.</p>
+            <figure>
+               <head>
+                  <hi>32</hi> The 2<hi rend="sup">d</hi> Palming motion</head>
+            </figure>
+            <p>Forſake the Pike with yo<hi rend="sup">r</hi>: right hand, bring forward the Pike with y<hi rend="sup">e</hi> left and take it backward with the right, and ſo continue palm<g ref="char:EOLhyphen"/>ing vntill you haue the But end of y<hi rend="sup">e</hi> pike in your Right hand</p>
+            <pb facs="tcp:17104:30" rendition="simple:additions"/>
+            <pb facs="tcp:17104:30" rendition="simple:additions"/>
+            <figure>
+               <head>33 Charge yo<hi rend="sup">r</hi>. Pike.</head>
+            </figure>
+            <p>Strech yo<hi rend="sup">r</hi>. right arme backward w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> butt end of y<hi rend="sup">e</hi> Pike in yo<hi rend="sup">r</hi> hand yo<hi rend="sup">r</hi>. left hand at yo<hi rend="sup">r</hi> breast, and yo<hi rend="sup">r</hi> elbow vpon yo<hi rend="sup">r</hi> hip &amp; as in y<hi rend="sup">e</hi> i6 figure</p>
+            <figure>
+               <head>
+                  <hi>34</hi> Order at cloſe Order.</head>
+            </figure>
+            <p>This is to be done in 3 motions first bearing the pike right vp before y<hi rend="sup">e</hi> body and ſo forward as from y<hi rend="sup">e</hi> Aduance in y<hi rend="sup">e</hi> 6. 7. &amp; 8. figures, only yo<hi rend="sup">u</hi> must obſerue to ſett y<hi rend="sup">e</hi>, butt end of y<hi rend="sup">e</hi> Pike at the inſide of y<hi rend="sup">e</hi> right foote w<hi rend="sup">th</hi> is yo<hi rend="sup">r</hi> cloſſe order.</p>
+            <figure>
+               <head>
+                  <hi>35</hi> Charg for horſe and draw yo<hi rend="sup">r</hi> ſword</head>
+            </figure>
+            <p>The Butt end of yo<hi rend="sup">r</hi> Pike resting aga<g ref="char:EOLhyphen"/>inst yo<hi rend="sup">r</hi> right foote take it in yo<hi rend="sup">r</hi> left hand about, y<hi rend="sup">e</hi> hight of yo<hi rend="sup">r</hi> girdle and ſtep forward w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> left foote y<hi rend="sup">e</hi> knee bent lay yo<hi rend="sup">r</hi> left arme vpon yo<hi rend="sup">r</hi> knee couching down low &amp; draw yo<hi rend="sup">r</hi> ſword ouer yo<hi rend="sup">r</hi> left arme</p>
+            <figure>
+               <head>
+                  <hi>36</hi> Recouer yo<hi rend="sup">r</hi> Pike and put vp yo<hi rend="sup">r</hi> ſword.</head>
+            </figure>
+            <p>Raiſe yo<hi rend="sup">r</hi> body right vp set yo<hi rend="sup">r</hi> Pike: against yo<hi rend="sup">r</hi> right sholder w<hi rend="sup">th</hi> the left hand y<hi rend="sup">e</hi> but end being still vpon y<hi rend="sup">e</hi> ground then put vp yo<hi rend="sup">r</hi> ſword:</p>
+         </div>
+      </body>
+   </text>
+</TEI>
